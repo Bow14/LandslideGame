@@ -12,12 +12,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Camerastuff.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMove.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Camerastuff.cs" />
       </list>
     </option>
   </component>
@@ -70,6 +72,7 @@
       <workItem from="1605775808224" duration="38000" />
       <workItem from="1605775952591" duration="474000" />
       <workItem from="1605927749981" duration="686000" />
+      <workItem from="1606209547361" duration="268000" />
     </task>
     <servers />
   </component>
