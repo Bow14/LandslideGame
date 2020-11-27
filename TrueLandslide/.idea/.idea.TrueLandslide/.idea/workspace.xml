@@ -14,12 +14,14 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Camerastuff.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collsion.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMove.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Camerastuff.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collsion.cs" />
       </list>
     </option>
   </component>
@@ -79,6 +81,7 @@
       <workItem from="1605775952591" duration="474000" />
       <workItem from="1605927749981" duration="686000" />
       <workItem from="1606209547361" duration="914000" />
+      <workItem from="1606473040164" duration="908000" />
     </task>
     <servers />
   </component>
