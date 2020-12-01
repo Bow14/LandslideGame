@@ -18,11 +18,11 @@ public class PlayerMove : MonoBehaviour
 
 		if (Input.GetKey("d"))
 		{
-			rb.AddForce(sidwaysForce * Time.deltaTime, 0,0);
+			rb.AddForce(sidwaysForce * Time.deltaTime, 0,0, ForceMode.VelocityChange);
 		}
 		if (Input.GetKey("a"))
 		{
-			rb.AddForce(-sidwaysForce * Time.deltaTime, 0,0);
+			rb.AddForce(-sidwaysForce * Time.deltaTime, 0,0, ForceMode.VelocityChange);
 		}
 	}
 }
