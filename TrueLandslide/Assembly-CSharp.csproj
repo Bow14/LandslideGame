@@ -61,6 +61,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Camerastuff.cs" />
     <Compile Include="Assets\Scripts\Collsion.cs" />
+    <Compile Include="Assets\Scripts\GameManger.cs" />
     <Compile Include="Assets\Scripts\PlayerMove.cs" />
     <Compile Include="Assets\Scripts\Score.cs" />
     <Reference Include="UnityEditor.StandardEvents">
