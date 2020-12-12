@@ -22,11 +22,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Camerastuff.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMove.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Score.cs" />
         <option value="$PROJECT_DIR$/Assets/GameManger.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameManger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collsion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManger.cs" />
       </list>
     </option>
   </component>
@@ -90,6 +90,7 @@
       <workItem from="1606808187017" duration="357000" />
       <workItem from="1607502977320" duration="1188000" />
       <workItem from="1607668251592" duration="1332000" />
+      <workItem from="1607763936816" duration="1864000" />
     </task>
     <servers />
   </component>

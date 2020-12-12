@@ -1,11 +1,28 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+public class GameManger : MonoBehaviour
+{
+    private bool gameHasEnded = false;
 
-public class GameManger : MonoBehaviour {
+    public float restartDelay = 1f;
 
   public  void EndGame()
     {
-        Debug.Log("End Game");
+        if (gameHasEnded == false)
+        {
+            gameHasEnded = true;
+            Debug.Log("End Game");
+            //restart game
+            Invoke("Restart", restartDelay);
+
+        }
+        
     }
+
+  void Restart()
+  {
+      SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+  }
 }
