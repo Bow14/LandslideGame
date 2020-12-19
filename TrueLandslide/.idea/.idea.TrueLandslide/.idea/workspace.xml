@@ -17,6 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMove.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collsion.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Score.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GravityBody.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -27,6 +28,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Collsion.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMove.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameManger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GravityBody.cs" />
       </list>
     </option>
   </component>
@@ -91,6 +93,7 @@
       <workItem from="1607502977320" duration="1188000" />
       <workItem from="1607668251592" duration="1332000" />
       <workItem from="1607763936816" duration="1864000" />
+      <workItem from="1608366403313" duration="268000" />
     </task>
     <servers />
   </component>
