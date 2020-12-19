@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class GravityBody : MonoBehaviour {
 
+// This is not my script this is made by a dude named harperrhett https://answers.unity.com/questions/443938/whats-a-good-way-to-keep-a-character-connected-to.html
+//I will be studying this code and remaking it to my own i just wanted to see if this was the answer to my problem but that will be for tomorrow.
+// Just wanted to clarify so i dont get like punished or anything
 	// Initialize
 	private Rigidbody rb;
 	private Vector3 normal = Vector3.down;
