@@ -10,6 +10,7 @@
           <e p="Camerastuff.cs" t="Include" />
           <e p="Collsion.cs" t="Include" />
           <e p="GameManger.cs" t="Include" />
+          <e p="Gravitional.cs" t="Include" />
           <e p="GravityBody.cs" t="Include" />
           <e p="PlayerMove.cs" t="Include" />
           <e p="Score.cs" t="Include" />
