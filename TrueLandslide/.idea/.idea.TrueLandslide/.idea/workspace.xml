@@ -19,6 +19,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Score.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gravitional.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GravityBody.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Endtrigger.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -28,9 +29,10 @@
         <option value="$PROJECT_DIR$/Assets/GameManger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collsion.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMove.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameManger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GravityBody.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Gravitional.cs" />
+        <option value="$PROJECT_DIR$/Assets/Endtrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManger.cs" />
       </list>
     </option>
   </component>
@@ -99,6 +101,7 @@
       <workItem from="1608366826713" duration="104000" />
       <workItem from="1608693309088" duration="2027000" />
       <workItem from="1609742806049" duration="232000" />
+      <workItem from="1610173185757" duration="1097000" />
     </task>
     <servers />
   </component>

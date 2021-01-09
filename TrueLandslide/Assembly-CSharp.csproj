@@ -59,6 +59,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Endtrigger.cs" />
     <Compile Include="Assets\Scripts\Camerastuff.cs" />
     <Compile Include="Assets\Scripts\Collsion.cs" />
     <Compile Include="Assets\Scripts\GameManger.cs" />

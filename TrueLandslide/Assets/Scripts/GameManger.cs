@@ -8,7 +8,14 @@ public class GameManger : MonoBehaviour
 
     public float restartDelay = 1f;
 
-  public  void EndGame()
+    public GameObject completeLevelUI;
+
+    public void Completelevel()
+    {
+        completeLevelUI.SetActive(true);
+    }
+
+    public  void EndGame()
     {
         if (gameHasEnded == false)
         {
